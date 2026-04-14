@@ -1,4 +1,4 @@
-# 🛡 AI-Powered Cybersecurity Threat Detection System (SOC Simulation)
+# 🛡 AI-Powered Cybersecurity Threat Detection 
 
 ## 📌 Project Overview
 This project is an AI-based Intrusion Detection System (IDS) that uses Machine Learning to classify network traffic as **normal or malicious**.  
@@ -79,7 +79,6 @@ https://drive.google.com/file/d/1Ms5xe3Y1SrMA55RnM2AF9aN2x0VjT9Pm/view?usp=shari
 
 ## 👨‍💻 Author
 **Aseem Tapase**  
-B.Tech CSE | AI/ML & Cybersecurity Enthusiast  
 
 ---
 
